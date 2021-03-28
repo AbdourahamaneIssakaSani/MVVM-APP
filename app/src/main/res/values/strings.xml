@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="title">ZINENIC</string>
+    <string name="email">Email Address</string>
+    <string name="pwd">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="welcome">Welcome !</string>
+</resources>
